@@ -7,6 +7,6 @@ namespace LearningGit
 {
     class MyFirstGitClass
     {
-
+        int sample = 10;
     }
 }
